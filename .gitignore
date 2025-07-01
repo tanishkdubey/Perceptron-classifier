@@ -1,0 +1,3 @@
+echo "# Perceptron Classifier from Scratch" > README.md
+echo "__pycache__/" > .gitignore
+pip freeze > requirements.txt
